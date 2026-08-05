@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.13.1](https://github.com/Koenkk/zigbee2mqtt/compare/2.13.0...2.13.1) (2026-08-05)
+
+
+### Bug Fixes
+
+* **ignore:** bump the minor-patch group with 2 updates ([#32755](https://github.com/Koenkk/zigbee2mqtt/issues/32755)) ([106a4bd](https://github.com/Koenkk/zigbee2mqtt/commit/106a4bdef223be8b63e34c0b81df3c55e735441e))
+* **ignore:** update zigbee-herdsman to 10.8.1 ([#32745](https://github.com/Koenkk/zigbee2mqtt/issues/32745)) ([2f976b7](https://github.com/Koenkk/zigbee2mqtt/commit/2f976b7dca740ec8f7b7bc604d2337c1341b7036))
+* **ignore:** update zigbee-herdsman-converters to 26.91.0 ([#32746](https://github.com/Koenkk/zigbee2mqtt/issues/32746)) ([a8171a5](https://github.com/Koenkk/zigbee2mqtt/commit/a8171a5464a325a8b24f47162897b895766df1f5))
+* **ignore:** update zigbee-herdsman-converters to 26.92.0 ([#32757](https://github.com/Koenkk/zigbee2mqtt/issues/32757)) ([0468176](https://github.com/Koenkk/zigbee2mqtt/commit/046817624f624934a5e637baba2eedad844ccbb5))
+* Replace express-static-gzip and finalhandler with srvx ([#32685](https://github.com/Koenkk/zigbee2mqtt/issues/32685)) ([29b041c](https://github.com/Koenkk/zigbee2mqtt/commit/29b041ce57bf42c8ae820318c7494e2d2e87f8ff))
+* Replace object-assign-deep with local utility ([#32684](https://github.com/Koenkk/zigbee2mqtt/issues/32684)) ([8280387](https://github.com/Koenkk/zigbee2mqtt/commit/828038717fcf659fd368d9a008364eb0ba707529))
+
 ## [2.13.0](https://github.com/Koenkk/zigbee2mqtt/compare/2.12.1...2.13.0) (2026-08-01)
 
 
